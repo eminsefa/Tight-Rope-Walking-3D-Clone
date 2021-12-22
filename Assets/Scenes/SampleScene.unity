@@ -198,6 +198,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &316877 stripped
@@ -319,6 +327,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &21424889 stripped
@@ -417,6 +433,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -517,6 +541,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &33162527 stripped
@@ -615,6 +647,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -715,6 +755,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &50022176 stripped
@@ -814,6 +862,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &64706277
@@ -890,6 +946,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -990,6 +1054,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &70041057 stripped
@@ -1088,6 +1160,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -1226,6 +1306,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &89077771
@@ -1302,6 +1390,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -1433,6 +1529,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &115863434 stripped
@@ -1532,6 +1636,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &120279553 stripped
@@ -1630,6 +1742,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -1777,6 +1897,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &154389529 stripped
@@ -1875,6 +2003,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -1975,6 +2111,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &161258851 stripped
@@ -2073,6 +2217,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -2173,6 +2325,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &176464513 stripped
@@ -2272,6 +2432,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &188845431 stripped
@@ -2370,6 +2538,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -2572,6 +2748,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &200753724 stripped
@@ -2670,6 +2854,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -2903,6 +3095,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -3790,6 +3990,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &223560877 stripped
@@ -3910,6 +4118,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -4032,6 +4248,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &259345726 stripped
@@ -4130,6 +4354,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -4230,6 +4462,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &260300691 stripped
@@ -4329,6 +4569,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &262009205 stripped
@@ -4427,6 +4675,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -4570,6 +4826,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -4803,6 +5067,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &355892944 stripped
@@ -4902,6 +5174,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &372086460 stripped
@@ -5000,6 +5280,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -5598,6 +5886,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &443029358 stripped
@@ -5696,6 +5992,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -5957,6 +6261,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &489293158
@@ -6146,6 +6458,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &525478154 stripped
@@ -6244,6 +6564,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -6344,6 +6672,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &564349166 stripped
@@ -6442,6 +6778,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -6542,6 +6886,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &620666800 stripped
@@ -6641,6 +6993,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &621643477 stripped
@@ -6739,6 +7099,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -6973,6 +7341,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &636856730
@@ -7049,6 +7425,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -7171,6 +7555,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &664283360
@@ -7247,6 +7639,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -7539,6 +7939,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &679612700 stripped
@@ -7775,6 +8183,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &715894847 stripped
@@ -7962,6 +8378,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &732310449 stripped
@@ -8143,6 +8567,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &760305914
@@ -8219,6 +8651,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -8431,6 +8871,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &765596671 stripped
@@ -8529,6 +8977,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -8629,6 +9085,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &791063721 stripped
@@ -8727,6 +9191,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -8827,6 +9299,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &797826823 stripped
@@ -8926,6 +9406,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &810221126 stripped
@@ -9024,6 +9512,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -9160,6 +9656,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &827882297 stripped
@@ -9259,6 +9763,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &846968931
@@ -9335,6 +9847,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -9647,6 +10167,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &877753078 stripped
@@ -9833,6 +10361,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -10067,6 +10603,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &917311634 stripped
@@ -10165,6 +10709,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -10332,6 +10884,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &922785258 stripped
@@ -10431,6 +10991,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &945647609 stripped
@@ -10529,6 +11097,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -10869,6 +11445,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &963948047 stripped
@@ -10967,6 +11551,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -11414,6 +12006,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1054931972 stripped
@@ -11613,6 +12213,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1068334674 stripped
@@ -11811,6 +12419,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -12066,6 +12682,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1121411058 stripped
@@ -12164,6 +12788,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -12364,6 +12996,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1193049198 stripped
@@ -12494,6 +13134,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1204551191 stripped
@@ -12593,6 +13241,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &1240455809
@@ -12669,6 +13325,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -12847,6 +13511,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1265735612 stripped
@@ -12945,6 +13617,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -13203,6 +13883,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1297451272 stripped
@@ -13413,6 +14101,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1314937076 stripped
@@ -13511,6 +14207,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -13611,6 +14315,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1348283820 stripped
@@ -13710,6 +14422,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &1394547411
@@ -13787,6 +14507,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &1395968022
@@ -13863,6 +14591,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -13963,6 +14699,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &1402840924
@@ -14039,6 +14783,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -14286,6 +15038,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1434821940 stripped
@@ -14469,6 +15229,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -14716,6 +15484,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1505562502 stripped
@@ -14814,6 +15590,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -15014,6 +15798,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1538309249 stripped
@@ -15171,6 +15963,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1552014501 stripped
@@ -15270,6 +16070,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &1609925034
@@ -15346,6 +16154,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -15545,6 +16361,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -15760,6 +16584,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1671584417 stripped
@@ -15858,6 +16690,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -15958,6 +16798,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1692244107 stripped
@@ -16056,6 +16904,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -16156,6 +17012,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1702010640 stripped
@@ -16254,6 +17118,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -16466,6 +17338,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1753513037 stripped
@@ -16658,6 +17538,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1770249213
@@ -16826,6 +17714,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &1812162649
@@ -16902,6 +17798,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -17002,6 +17906,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1826912476 stripped
@@ -17100,6 +18012,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -17200,6 +18120,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1842514874 stripped
@@ -17299,6 +18227,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1844021312 stripped
@@ -17397,6 +18333,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -17592,6 +18536,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1866037595 stripped
@@ -17691,6 +18643,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1872945304 stripped
@@ -17789,6 +18749,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -18023,6 +18991,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1898002117 stripped
@@ -18143,6 +19119,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -18377,6 +19361,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &1968381360 stripped
@@ -18558,6 +19550,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1001 &2026328549
@@ -18634,6 +19634,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -18756,6 +19764,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &2046632847 stripped
@@ -18855,6 +19871,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pizza_Box (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
 --- !u!1 &2050929829 stripped
@@ -18953,6 +19977,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
@@ -19153,6 +20185,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
       propertyPath: m_Name
       value: Pizza_Box (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326503316402571083, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a6633862340d45d69aba3a499c4ad95, type: 3}
